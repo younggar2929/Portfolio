@@ -13,4 +13,5 @@ int main(){
     int total = hrs * 60 + min;
 
     cout << "Total: " << total << " minutes" << endl;
+
 }
